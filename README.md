@@ -12,8 +12,8 @@ DOMAIN= "http://localhost:3000"
 PORT=3000
 STATIC_DIR="./client"
 
-PUBLISHABLE_KEY="pk_test_51OiYp5SCOthlFEsu2FQilIRvzhyBLo0ZrmfCnYHpcNUHZlZ3yW0j5FNIAjIMaguZ7PMbD0iCnQDktQb3QB0MiB3a00aTHE4Sc6"
-SECRET_KEY="sk_test_51OiYp5SCOthlFEsuK5JRmcXEl1I1mhyIeicw5LjLCcN6nKiG0Jj0cbTIergXkN79B40fnTNoLhvcv8FxWwosiWYb00Wk31Ukxw"
+PUBLISHABLE_KEY=""
+SECRET_KEY=""
 ```
 3. Initialise and start the project
 ```
